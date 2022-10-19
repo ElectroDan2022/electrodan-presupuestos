@@ -1,0 +1,17 @@
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.csprojAssemblyReference.cache
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.csproj.ResolveComReference.cache
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmListaCategoriasProd.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmCargaListaPrecios.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmListaProdRequerido.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmListaPedidos.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmListaPresupuestos.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmListaProductos.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmPedido.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoTareas.frmPresuNuevo.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmPresupuesto.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmPrincipal.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmProdPedido.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.frmProducto.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoTareas.Properties.Resources.resources
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.csproj.GenerateResource.cache
+D:\17.CARPETAS\COSAS PENDRIVE\BACKUP PROGRAMACION\NUEVO\ManejoPresupuestos\obj\Release\ManejoPresupuestos.csproj.CoreCompileInputs.cache

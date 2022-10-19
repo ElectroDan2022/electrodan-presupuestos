@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categorias>
+  <Alarmas>
+    <item>Sensor Infrarrojo</item>
+    <item>Sensor Magnetico</item>
+    <item>Sirena Interior</item>
+    <item>Sirena Exterior</item>
+    <item>Controles Inhalambricos</item>
+    <item>Barrera Infrarroja</item>
+    <item>Centrar Alarma</item>
+    <item>Pulsador Asalto</item>
+    <item>Centrar Alarma</item>
+  </Alarmas>
+  <CCTV>
+    <item>Camara Infrarroja</item>
+    <item>Placa Capturadora</item>
+    <item>Camara Exterior</item>
+    <item>Computadora Servidora</item>
+  </CCTV>
+  <Telefonia>
+    <item>Central Telefonica</item>
+    <item>Bateria inhalambrico</item>
+    <item>Telefono Inhalambrico</item>
+    <item>Telefono Escritorio</item>
+    <item>Ficha Americana</item>
+    <item>Portero Electrico</item>
+  </Telefonia>
+</Categorias>

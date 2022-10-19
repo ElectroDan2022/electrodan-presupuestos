@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>d:\PROG\Glade GTK\include\gtk-2.0\;d:\PROG\Glade GTK\include\glib-2.0\;d:\PROG\Glade GTK\include\pango-1.0\;d:\PROG\Glade GTK\include\atk-1.0\;d:\PROG\Glade GTK\lib\glib-2.0\include\;d:\PROG\Glade GTK\lib\gtk-2.0\include\</ReferencePath>
+    <PublishUrlHistory>http://localhost/ManejoPresupuestos/</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+</Project>
